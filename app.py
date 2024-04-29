@@ -1,5 +1,4 @@
 import torch
-import wikipedia
 import transformers
 import streamlit as st
 from tokenizers import Tokenizer
