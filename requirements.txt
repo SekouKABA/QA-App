@@ -1,4 +1,4 @@
 streamlit==1.29.0
 torch==2.3.0
 transformers==4.16.2
-piwikibot==9.1.1
+pywikibot==9.1.1
